@@ -68,16 +68,6 @@ The landmark-based approach significantly reduces dimensionality compared to raw
 
 ---
 
-## 🗂 Repository Structure
-
-
-SignLanguageDetection/
-│
-├── src/ # source code
-├── data/
-│ └── DataSample/ # small dataset sample (example images only)
-└── .gitignore
-
 ## 📈 Project Type
 
 Engineering Thesis  
