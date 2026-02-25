@@ -1,0 +1,34 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+
+# System
+.DS_Store
+Thumbs.db
+
+# ==========================
+# DUŻE DANE - IGNORUJEMY
+# ==========================
+
+data/photos_datasets/
+data/processed_images/
+data/skadrowane_dlonie/
+data/skadrowane_dlonie2/
+data/datasets_pickle/
+data/odwrocone_zdjecia/
+
+# Modele (jeśli duże)
+*.pth
+*.onnx
+*.pkl
+*.joblib
